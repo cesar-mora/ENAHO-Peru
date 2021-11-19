@@ -1,2 +1,2 @@
 # ENAHO-Peru
-Do-files (STATA) para crear algunas variables con la ENAHO
+Do-files (STATA) para crear algunas variables socioeconomicas con la ENAHO
